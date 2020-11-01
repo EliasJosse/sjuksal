@@ -1,0 +1,10 @@
+﻿Månadslön 30000
+Arbetstimmar i veckan 40
+Frånvarutimmar från arbete 76
+
+
+
+
+Sjuklön: 9410
+
+Normal lön: 16852

@@ -1,1 +1,2 @@
-# sjuksal
+
+1. månadslön
